@@ -56978,14 +56978,8 @@
                             "type": "string"
                           },
                           "owner": {
-                            "additionalProperties": false,
                             "description": "The owner of the entity, usually a team.",
-                            "properties": {
-                              "name": {
-                                "description": "Team name.",
-                                "type": "string"
-                              }
-                            }
+                            "type": "string"
                           },
                           "tags": {
                             "description": "A set of custom tags.",
@@ -57316,14 +57310,8 @@
                             "type": "string"
                           },
                           "owner": {
-                            "additionalProperties": false,
                             "description": "The owner of the entity, usually a team.",
-                            "properties": {
-                              "name": {
-                                "description": "Team name.",
-                                "type": "string"
-                              }
-                            }
+                            "type": "string"
                           },
                           "tags": {
                             "description": "A set of custom tags.",
@@ -57640,14 +57628,8 @@
                             "type": "string"
                           },
                           "owner": {
-                            "additionalProperties": false,
                             "description": "The owner of the entity, usually a team.",
-                            "properties": {
-                              "name": {
-                                "description": "Team name.",
-                                "type": "string"
-                              }
-                            }
+                            "type": "string"
                           },
                           "tags": {
                             "description": "A set of custom tags.",
@@ -57977,14 +57959,8 @@
                             "type": "string"
                           },
                           "owner": {
-                            "additionalProperties": false,
                             "description": "The owner of the entity, usually a team.",
-                            "properties": {
-                              "name": {
-                                "description": "Team name.",
-                                "type": "string"
-                              }
-                            }
+                            "type": "string"
                           },
                           "tags": {
                             "description": "A set of custom tags.",
@@ -58341,14 +58317,8 @@
                             "type": "string"
                           },
                           "owner": {
-                            "additionalProperties": false,
                             "description": "The owner of the entity, usually a team.",
-                            "properties": {
-                              "name": {
-                                "description": "Team name.",
-                                "type": "string"
-                              }
-                            }
+                            "type": "string"
                           },
                           "tags": {
                             "description": "A set of custom tags.",
@@ -58757,14 +58727,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -59095,14 +59059,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -59419,14 +59377,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -59756,14 +59708,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -60120,14 +60066,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -60650,14 +60590,8 @@
                     "type": "string"
                   },
                   "owner": {
-                    "additionalProperties": false,
                     "description": "The owner of the entity, usually a team.",
-                    "properties": {
-                      "name": {
-                        "description": "Team name.",
-                        "type": "string"
-                      }
-                    }
+                    "type": "string"
                   },
                   "tags": {
                     "description": "A set of custom tags.",
@@ -60988,14 +60922,8 @@
                     "type": "string"
                   },
                   "owner": {
-                    "additionalProperties": false,
                     "description": "The owner of the entity, usually a team.",
-                    "properties": {
-                      "name": {
-                        "description": "Team name.",
-                        "type": "string"
-                      }
-                    }
+                    "type": "string"
                   },
                   "tags": {
                     "description": "A set of custom tags.",
@@ -61312,14 +61240,8 @@
                     "type": "string"
                   },
                   "owner": {
-                    "additionalProperties": false,
                     "description": "The owner of the entity, usually a team.",
-                    "properties": {
-                      "name": {
-                        "description": "Team name.",
-                        "type": "string"
-                      }
-                    }
+                    "type": "string"
                   },
                   "tags": {
                     "description": "A set of custom tags.",
@@ -61649,14 +61571,8 @@
                     "type": "string"
                   },
                   "owner": {
-                    "additionalProperties": false,
                     "description": "The owner of the entity, usually a team.",
-                    "properties": {
-                      "name": {
-                        "description": "Team name.",
-                        "type": "string"
-                      }
-                    }
+                    "type": "string"
                   },
                   "tags": {
                     "description": "A set of custom tags.",
@@ -62013,14 +61929,8 @@
                     "type": "string"
                   },
                   "owner": {
-                    "additionalProperties": false,
                     "description": "The owner of the entity, usually a team.",
-                    "properties": {
-                      "name": {
-                        "description": "Team name.",
-                        "type": "string"
-                      }
-                    }
+                    "type": "string"
                   },
                   "tags": {
                     "description": "A set of custom tags.",
@@ -62409,14 +62319,8 @@
                 "type": "string"
               },
               "owner": {
-                "additionalProperties": false,
                 "description": "The owner of the entity, usually a team.",
-                "properties": {
-                  "name": {
-                    "description": "Team name.",
-                    "type": "string"
-                  }
-                }
+                "type": "string"
               },
               "tags": {
                 "description": "A set of custom tags.",
@@ -63165,14 +63069,8 @@
                 "type": "string"
               },
               "owner": {
-                "additionalProperties": false,
                 "description": "The owner of the entity, usually a team.",
-                "properties": {
-                  "name": {
-                    "description": "Team name.",
-                    "type": "string"
-                  }
-                }
+                "type": "string"
               },
               "tags": {
                 "description": "A set of custom tags.",
@@ -63489,14 +63387,8 @@
             "type": "string"
           },
           "owner": {
-            "additionalProperties": false,
             "description": "The owner of the entity, usually a team.",
-            "properties": {
-              "name": {
-                "description": "Team name.",
-                "type": "string"
-              }
-            }
+            "type": "string"
           },
           "tags": {
             "description": "A set of custom tags.",
@@ -63589,16 +63481,6 @@
           "url"
         ],
         "type": "object"
-      },
-      "EntityV3MetadataOwner": {
-        "additionalProperties": false,
-        "description": "The owner of the entity, usually a team.",
-        "properties": {
-          "name": {
-            "description": "Team name.",
-            "type": "string"
-          }
-        }
       },
       "EntityV3Queue": {
         "additionalProperties": false,
@@ -63869,14 +63751,8 @@
                 "type": "string"
               },
               "owner": {
-                "additionalProperties": false,
                 "description": "The owner of the entity, usually a team.",
-                "properties": {
-                  "name": {
-                    "description": "Team name.",
-                    "type": "string"
-                  }
-                }
+                "type": "string"
               },
               "tags": {
                 "description": "A set of custom tags.",
@@ -64324,14 +64200,8 @@
                 "type": "string"
               },
               "owner": {
-                "additionalProperties": false,
                 "description": "The owner of the entity, usually a team.",
-                "properties": {
-                  "name": {
-                    "description": "Team name.",
-                    "type": "string"
-                  }
-                }
+                "type": "string"
               },
               "tags": {
                 "description": "A set of custom tags.",
@@ -64820,14 +64690,8 @@
                 "type": "string"
               },
               "owner": {
-                "additionalProperties": false,
                 "description": "The owner of the entity, usually a team.",
-                "properties": {
-                  "name": {
-                    "description": "Team name.",
-                    "type": "string"
-                  }
-                }
+                "type": "string"
               },
               "tags": {
                 "description": "A set of custom tags.",
@@ -104998,14 +104862,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -105336,14 +105194,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -105660,14 +105512,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -105997,14 +105843,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -106361,14 +106201,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -106998,14 +106832,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -107336,14 +107164,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -107660,14 +107482,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -107997,14 +107813,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -108361,14 +108171,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -108959,14 +108763,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -109297,14 +109095,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -109621,14 +109413,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -109958,14 +109744,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -110322,14 +110102,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -198132,14 +197906,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -198470,14 +198238,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -198794,14 +198556,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -199131,14 +198887,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -199495,14 +199245,8 @@
                         "type": "string"
                       },
                       "owner": {
-                        "additionalProperties": false,
                         "description": "The owner of the entity, usually a team.",
-                        "properties": {
-                          "name": {
-                            "description": "Team name.",
-                            "type": "string"
-                          }
-                        }
+                        "type": "string"
                       },
                       "tags": {
                         "description": "A set of custom tags.",
@@ -200114,14 +199858,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -200452,14 +200190,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -200776,14 +200508,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -201113,14 +200839,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -201477,14 +201197,8 @@
                                       "type": "string"
                                     },
                                     "owner": {
-                                      "additionalProperties": false,
                                       "description": "The owner of the entity, usually a team.",
-                                      "properties": {
-                                        "name": {
-                                          "description": "Team name.",
-                                          "type": "string"
-                                        }
-                                      }
+                                      "type": "string"
                                     },
                                     "tags": {
                                       "description": "A set of custom tags.",
@@ -201924,14 +201638,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -202262,14 +201970,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -202586,14 +202288,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -202923,14 +202619,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -203287,14 +202977,8 @@
                                   "type": "string"
                                 },
                                 "owner": {
-                                  "additionalProperties": false,
                                   "description": "The owner of the entity, usually a team.",
-                                  "properties": {
-                                    "name": {
-                                      "description": "Team name.",
-                                      "type": "string"
-                                    }
-                                  }
+                                  "type": "string"
                                 },
                                 "tags": {
                                   "description": "A set of custom tags.",
@@ -203713,14 +203397,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -204051,14 +203729,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -204375,14 +204047,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -204712,14 +204378,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -205076,14 +204736,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -241662,14 +241316,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -242000,14 +241648,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -242324,14 +241966,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -242661,14 +242297,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -243025,14 +242655,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -243746,14 +243370,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -244084,14 +243702,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -244408,14 +244020,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -244745,14 +244351,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -245109,14 +244709,8 @@
                                 "type": "string"
                               },
                               "owner": {
-                                "additionalProperties": false,
                                 "description": "The owner of the entity, usually a team.",
-                                "properties": {
-                                  "name": {
-                                    "description": "Team name.",
-                                    "type": "string"
-                                  }
-                                }
+                                "type": "string"
                               },
                               "tags": {
                                 "description": "A set of custom tags.",
@@ -245737,14 +245331,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -246075,14 +245663,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -246399,14 +245981,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -246736,14 +246312,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
@@ -247100,14 +246670,8 @@
                                                 "type": "string"
                                               },
                                               "owner": {
-                                                "additionalProperties": false,
                                                 "description": "The owner of the entity, usually a team.",
-                                                "properties": {
-                                                  "name": {
-                                                    "description": "Team name.",
-                                                    "type": "string"
-                                                  }
-                                                }
+                                                "type": "string"
                                               },
                                               "tags": {
                                                 "description": "A set of custom tags.",
